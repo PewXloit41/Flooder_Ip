@@ -10,7 +10,9 @@ git clone https://github.com/PewXloit41/Flooder_Ip
 
 cd Flooder_Ip
 
-python2 Newbie.py
+python2 Newbie.py (ip) (port)
+
+ex : python2 Newbie.py 118.98.93.48 80
 
 
 
