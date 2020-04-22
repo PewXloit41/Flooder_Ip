@@ -15,11 +15,11 @@ python2 Newbie.py
 
 
 
-<img src="/img/screenshot1_home.jpg" width="300" height="170">
+<img src="screenshot1_home.jpg" width="300" height="170">
 
-<img src="/img/screenshot2_flood.jpg" width="300" height="170">
+<#img src="/img/screenshot2_flood.jpg" width="300" height="170">
 
-<img src="/img/screenshot3_down.jpg" width="300" height="170">
+<#img src="/img/screenshot3_down.jpg" width="300" height="170">
 
 
 
